@@ -15,7 +15,7 @@ I'm currently a sophomore at **National Changhua University of Education (NCUE)*
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python (Advanced Programming / Data Simulation)
-- **Domains:** Signals & Systems, Electronic Circuitry, OOP
+- **Domains:** Verilog(HDL), Electronic Circuitry, OOP
 - **Methodology:** AI-Assisted Development (Vibe Coding)
 
 ---
